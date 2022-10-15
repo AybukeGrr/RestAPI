@@ -1,0 +1,24 @@
+.container {
+  
+}
+
+.actionButton {
+  margin-right: 5px;
+}
+
+#inputText{
+    margin-right: 10px;
+    padding-bottom: 6px
+}
+
+#saveButton{
+    margin-right: 5px
+}
+
+.navbar{
+    margin-bottom: 25px;
+}
+
+#removeButton{
+    margin-right: 5px;
+}
